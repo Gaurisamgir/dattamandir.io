@@ -1887,15 +1887,16 @@ box-homepage-welcome {
 		padding-top: 10px;
 	  }
 	
-	  .sidebars {
-		font-size: 25px;
-		color: orangered;
-		border-color: #000000;
-		padding: 20px;
-		font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-		float:right; margin-right: 15%; 
-		color:darkorange; size: 15px;
-	  }
+	  
+		.sidebars {
+			font-size: 25px;
+			color: orangered;
+			border-color: #000000;
+			padding: 20px;
+			font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+			float:right; margin-right: 15%; 
+			color:darkorange; size: 15px;
+			}
 	 
 		 /* #demo {
 		  display: none;
